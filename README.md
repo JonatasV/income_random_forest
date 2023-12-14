@@ -4,11 +4,9 @@
 # Introduction
 An individual's annual income can be influenced by a multitude of factors, such as education level, age, gender, occupation, and more. By developing a predictive model for income, we gain valuable insights into the dynamics of these contributing factors over time. This allows for a deeper understanding of the patterns and trends that affect income levels annually. Moreover, employers can use these predictions to make data-driven decisions related to employee compensation, workforce planning, and talent acquisition. Also, policymakers can benefit from insights into income trends to formulate effective economics policies and social programs. 
 
-💻 [Complete Project]
-(https://github.com/JonatasV/income_random_forest/blob/main/income_random_forest.ipynb)
+💻 [Complete Project](https://github.com/JonatasV/income_random_forest/blob/main/income_random_forest.ipynb)
 
-📊 [Complete Presentation]
-(https://github.com/JonatasV/income_random_forest/blob/main/income_presentation.pdf)
+📊 [Complete Presentation](https://github.com/JonatasV/income_random_forest/blob/main/income_presentation.pdf)
 
 # Data Source
 The dataset consists of 14 attributes, including our variable of interest - income, which has been divided into two classes: ≤ 50K and > 50K. You can download it here: 
